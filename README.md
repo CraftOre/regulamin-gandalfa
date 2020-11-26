@@ -31,7 +31,7 @@
   
 1. Nie należy edytować jednej wiadomości więcej niż 5 razy w ciągu jednego dnia.
 
-2. Nie spamujemy na kanale #findusbot. Spamowaniem nazywamy wysłanie więcej niż 3 wiadomości w ciągu 2 sekund. 
+2. Nie spamujemy na kanałach innych niż #findusbot. Spamowaniem nazywamy wysłanie więcej niż 3 wiadomości w ciągu 2 sekund. 
 
 3. Właściciel powinien powiadomić wszystkich uprawnionych o głosowaniu.
 
