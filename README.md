@@ -15,7 +15,7 @@
 
 5.  **Właścicielem Serwera** jest Marximimus#6139.
 
-6.  **Moderatorami** są Bombylius#3334, CraftOre#0558, Findus#7449, FRANEK#5773, @Mucha 🌈❤#3631, maki100100100#9255.
+6.  **Moderatorami** są Bombylius#3334, CraftOre#0558, Findus#7449, FRANEK#5773, Mucha 🌈❤#3631, maki100100100#9255.
 
 ## §2 Role członków serwera
 
